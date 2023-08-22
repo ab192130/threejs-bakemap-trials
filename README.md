@@ -27,7 +27,7 @@ Modern computer graphics techniques allow us to create incredibly realistic visu
 
 To experience this creative experiment, follow these steps:
 
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/your-username/stylized-texture-baking.git`.
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/ab192130/threejs-bakemap-trials.git`.
 
 2. **Install Dependencies:** Navigate to the project directory and install the required dependencies using `npm install`.
 
